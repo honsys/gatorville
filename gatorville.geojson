@@ -1,4 +1,4 @@
-{ "type": "FeatureCollection", "features":[
+{ "type": "FeatureCollection", "features": [
   { "type": "Feature",
     "geometry": { "type": "Point", "coordinates": [-82.33205795288086,29.64998056654069] },
     "properties": {
@@ -12,7 +12,7 @@
   { "type": "Feature",
     "geometry": { "type": "Point", "coordinates": [-82.34587669372559,29.648693840494918] },
     "properties": {
-      "name":"UF Astronomy Bryant Space Science Center",
+      "name": "UF Astronomy Bryant Space Science Center",
       "address": "TBD",
       "marker-color": "#7e7e7e",
       "marker-size": "medium",
