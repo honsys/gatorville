@@ -1,2 +1,2 @@
 # gatorville
-GeoJSON of notable place of interests -- pubs and restaurants and biz.
+GeoJSON of notable places of interests -- pubs and restaurants and biz.
