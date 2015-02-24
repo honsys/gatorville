@@ -1,1 +1,12 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"building"},"geometry":{"type":"Point","coordinates":[-82.33205795288086,29.64998056654069]}}]}
+{ "type":"FeatureCollection", "features":[
+  { "type":"Feature",
+    "geometry":{"type": "Point", "coordinates": [-82.33205795288086,29.64998056654069]},
+    "properties":{
+      "name": "UF Innovation Hub",
+      "address": "TBD",
+      "marker-color": "#7e7e7e",
+      "marker-size": "medium",
+      "marker-symbol":"building"
+    }
+  }
+]}
