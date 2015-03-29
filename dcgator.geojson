@@ -1,6 +1,6 @@
 { "type": "FeatureCollection", "features": [
   { "type": "Feature",
-    "geometry": { "type": "Point", "coordinates": [38.994356, -76.842284] },
+    "geometry": { "type": "Point", "coordinates": [-76.842284, 38.994356] },
     "properties": { "marker-symbol": "building", "name": "NASA Goddard B32",
                      "address": "Greenbelt Maryland",
                      "note": "Earth Sciences satellite control and data center" }
