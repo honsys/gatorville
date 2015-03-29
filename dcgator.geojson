@@ -1,15 +1,15 @@
 { "type": "FeatureCollection", "features": [
   { "type": "Feature",
-    "geometry": { "type": "Point", "coordinates": [-76.842284, 38.994356] },
-    "properties": { "marker-symbol": "building", "name": "NASA Goddard B32",
-                     "address": "Greenbelt Maryland",
-                     "note": "Earth Sciences satellite control and data center" }
-  },
-  { "type": "Feature",
     "geometry": { "type": "Point", "coordinates": [-77.03195, 38.907826] },
     "properties": { "marker-symbol": "bar", "name": "Churchkey",
                      "address": "1337 14th St NW",
                      "note": "Ask the bartender for the password" }
+  },
+  { "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-76.842284, 38.994356] },
+    "properties": { "marker-symbol": "building", "name": "NASA Goddard B32",
+                     "address": "Greenbelt Maryland",
+                     "note": "Earth Sciences satellite control and data center" }
   },
   { "type": "Feature",
     "geometry": { "type": "Point", "coordinates": [ -77.070275, 38.906094 ] },
