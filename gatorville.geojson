@@ -14,7 +14,7 @@
     "properties": {
       "name": "Boca Fiesta"
       "address": 232 SE 1 St Gainesville, FL 32601 Open today 4:00 pm – 2:00 am",
-      "contact": "(352) 336-8226",
+      "phone": "(352) 336-8226",
       "marker-color": "#7e7e7e",
       "marker-size": "medium",
       "marker-symbol": "building"
