@@ -10,6 +10,17 @@
     }
   },
   { "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-82.324247, 29.64941] },
+    "properties": {
+      "name": "Boca Fiesta"
+      "address": 232 SE 1 St Gainesville, FL 32601 Open today 4:00 pm – 2:00 am",
+      "contact": "(352) 336-8226",
+      "marker-color": "#7e7e7e",
+      "marker-size": "medium",
+      "marker-symbol": "building"
+    }
+  },
+  { "type": "Feature",
     "geometry": { "type": "Point", "coordinates": [-82.34587669372559,29.648693840494918] },
     "properties": {
       "name": "UF Astronomy Bryant Space Science Center",
